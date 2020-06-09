@@ -24,7 +24,11 @@ The p-value of mannwhitneyu test is 0.1744. Since pvalue = 0.1744 is greater tha
 
 
 # Appendix
+![](control_group_distribution.png)
 
+![](results.jpg)
+
+![](results.jpg)
 
 
 
