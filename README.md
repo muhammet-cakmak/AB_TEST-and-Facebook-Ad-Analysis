@@ -27,11 +27,11 @@ The p-value of mannwhitneyu test is 0.1744. Since pvalue = 0.1744 is greater tha
         Distribution of The Control Group
 ![](control_group_distribution.png)
 
-Distribution of The Test Group
+       Distribution of The Test Group
 ![](test_group_distribution.png)
 
 
-The Box Plot of Purchases in the Groups
+       The Box Plot of Purchases in the Groups
 ![](Box_plot.png)
 
 
